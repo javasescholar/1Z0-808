@@ -44,7 +44,8 @@ interface Bouncable2 {
 
 }
 
-interface Bouncable3 {
+// interfaces are abstract by default, so no need to mark them explicitly
+abstract interface Bouncable3 {
 	// interface methods are by default abstract, marking them as final would result in
 	// "abstract final" and what sense does that make: must implement and cannot implement :)
 	final void bounce5();
