@@ -11,7 +11,10 @@ public class DeclarationsAndAccessControlMain {
 		printPadded("Example06 : StaticImports.java - example of static import feature");
 		printPadded("Example07 : PackageAccess1.java - example of accessing class with package access from another package");
 		printDPadded("Example07 : Companion classes used in example - PackageAccess2.java,PackageAccess3.java");
-		printPadded("Example08 : Interfaces.java - examples of interfaces and interface methods");
+		printPadded("Example08 : Interfaces.java - examples of interfaces, interface methods and interface constants");
+		printPadded("Example09 : PublicMemberAccess.java - examples of accessing public members from another class");
+		printPadded("Example10 : PrivateMemberAccess.java - examples of accessing private members from another class");
+		
 	}
 
 	private static final int n = 160;
