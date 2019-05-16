@@ -12,5 +12,7 @@
     examples of how class file should look like and naming rules
 #### **oca.java.se8.programmer1.module02.structure.ClassStructure.java**
 #### **oca.java.se8.programmer1.module02.structure.AConcept.java**
-#### **oca.java.se8.programmer1.module02.structure.substructure.SecretiveClass**
+#### **oca.java.se8.programmer1.module02.structure.substructure.SecretiveClass.java**
     examples of class structure, variables, methods and constructors
+#### **oca.java.se8.programmer1.module02.executable.Executable.java**
+    example of legal executable main method, and their overloads
