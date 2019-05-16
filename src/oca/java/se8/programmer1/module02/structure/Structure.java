@@ -13,6 +13,9 @@ import java.util.ArrayList;
  *
  * The name of the Java class, if it's public, must exactly match the name, including it's capitalization, of the file that it is stored in.
  * The name of the package that the class belongs to must exactly match, including capitalization, the directory structure that the file is stored in.
+ *
+ * If you have two classes in the same package, they can refer to each other simply by their class name.
+ * However, if two classes are in different packages, you need to use import statement in order to be able to refer that class by class name.
  */
 public class Structure {
 
