@@ -16,3 +16,6 @@
     examples of class structure, variables, methods and constructors
 #### **oca.java.se8.programmer1.module02.executable.Executable.java**
     example of legal executable main method, and their overloads
+    example of how to run the main method from CLI
+#### **oca.java.se8.programmer1.module02.format.Format.java**
+    examples of console output
