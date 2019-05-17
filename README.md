@@ -19,3 +19,11 @@
     example of how to run the main method from CLI
 #### **oca.java.se8.programmer1.module02.format.Format.java**
     examples of console output
+#### **oca.java.se8.programmer1.module02.packageone.Imports1.java**
+    examples of packages and import statements
+#### **oca.java.se8.programmer1.module02.packageone.Imports2.java**
+#### **oca.java.se8.programmer1.module02.packageone.ClassOne.java**
+#### **oca.java.se8.programmer1.module02.packagetwo.ClassOne.java**
+#### **oca.java.se8.programmer1.module02.packageone.subpackage.ClassA.java**
+#### **oca.java.se8.programmer1.module02.packageone.subpackage.ClassB.java**
+    examples of statement order, import statements and handling duplicate class names
