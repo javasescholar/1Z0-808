@@ -12,7 +12,7 @@ package oca.java.se8.programmer1.module02.packageone;
  *      subpackage are not imported, as well as partial wildcard import is not possible
  *
  *  Special case is when we have two classes from different packages with same simple name - ambiguous import.
- *  Solution : explicit import one class, e.g. java.util.Date, and two another refer using fully qualified class name
+ *  Solution : explicit import one class, e.g. import java.util.Date; and two another refer using fully qualified class name
  *  Solution : refer to both classes with fully qualified class name, just as the compiler do :)
  *
  *  NOTE: compiler will not complain for such imports, but it will complain if we try to reference e.g. Date object

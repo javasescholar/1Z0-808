@@ -27,3 +27,5 @@
 #### **oca.java.se8.programmer1.module02.packageone.subpackage.ClassA.java**
 #### **oca.java.se8.programmer1.module02.packageone.subpackage.ClassB.java**
     examples of statement order, import statements and handling duplicate class names
+#### **oca.java.se8.programmer1.module02.Features.java**
+    just theory about Java features like platform independece, OO, encapsulation, etc.
