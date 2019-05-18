@@ -29,3 +29,18 @@
     examples of statement order, import statements and handling duplicate class names
 #### **oca.java.se8.programmer1.module02.Features.java**
     just theory about Java features like platform independece, OO, encapsulation, etc.
+    
+## **Module 3 - Working with Java Data Types**
+
+#### **oca.java.se8.programmer1.module03.declaration.Declarations.java**
+    examples of genaral variable declaration prinicple
+#### **oca.java.se8.programmer1.module03.initialization.Initializations.java**
+    examples of genaral variable initialization prinicple
+#### **oca.java.se8.programmer1.module03.IntegerPrimitives.java**
+    examples of integer primitive types and literal forms
+#### **oca.java.se8.programmer1.module03.FloatingPointPrimitives.java**
+    examples of floating point primitive types and literal forms
+#### **oca.java.se8.programmer1.module03.LogicalAndCharacterPrimitives.java**
+    examples of logical and character primitive types and literal forms
+#### **oca.java.se8.programmer1.module03.CastingPrimitives.java**
+    examples of casting primitive types
